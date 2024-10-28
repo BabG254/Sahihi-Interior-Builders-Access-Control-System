@@ -5,7 +5,7 @@ This project demonstrates a role-based access control system using NestJS for th
 ## Setup
 
 1. Clone the repository:
-git clone https://github.com/yourusername/sahihi-interior-builders.git
+git clone https://github.com/BabG254/Sahihi-Interior-Builders-Access-Control-System.git
 
 
 2. Install dependencies:
